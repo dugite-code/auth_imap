@@ -1,5 +1,4 @@
-# auth_rcmail
-
+# auth_imap
 Mirrors - [ [GitLab](https://gitlab.com/dugite-code/auth_rcmail) | [bitbucket](https://bitbucket.org/dugite-code/auth_rcmail)|[Github](https://gitlab.com/dugite-code/auth_rcmail) ]
 
 Auto authentication for Tiny Tiny RSS against an IMAP Server
